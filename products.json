@@ -1,0 +1,65 @@
+[
+    {
+    "Name": "sn0wfa11 [NOT DONE]",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "",
+    "FileName": "sf.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/sn0w.png"
+  },
+  {
+    "Name": "ev0lve",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ev0.zip",
+    "FileName": "ev0.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ev0.png"
+  },
+  {
+    "Name": "primordial",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/prim.zip",
+    "FileName": "primo.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/prim.png"
+  },
+  {
+    "Name": "legendware",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/lw.zip",
+    "FileName": "lw.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/lw.png"
+  }, 
+  {
+    "Name": "gamesense",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/gs.zip",
+    "FileName": "gs.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/gs.png"
+  },
+  {
+    "Name": "onetap",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ot.zip",
+    "FileName": "ot.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ot.png"
+  },
+  {
+    "Name": "fatality (siniy)",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/ft.zip",
+    "FileName": "ft.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ft.png"
+  }
+]
