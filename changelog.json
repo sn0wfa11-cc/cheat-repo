@@ -6,7 +6,9 @@
       "+ moved whole infrastructure to different location",
       "+ updated loader",
       "+ nothing else."
-    ],
+    ]
+  },
+  {
     "version": "v2.1.2",
     "date": "19.04.2026",
     "changes": [
