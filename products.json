@@ -9,6 +9,24 @@
     "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/sn0w.png"
   },
   {
+    "Name": "havoc",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/havoc.zip",
+    "FileName": "havoc.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/placeholder.png"
+  },
+  {
+    "Name": "airflow",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/airflow.zip",
+    "FileName": "airflow.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/airflow.png"
+  },
+  {
     "Name": "ev0lve",
     "Game": "csgo",
     "GameId": "730:csgo",
