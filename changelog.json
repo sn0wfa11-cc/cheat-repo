@@ -1,5 +1,12 @@
 [
   {
+    "version": "v2.1.5-DEVREPO",
+    "date": "25.04.2026",
+    "changes": [
+      "+ added neverlose for alpha testing"
+    ]
+  },
+  {
     "version": "v2.1.5",
     "date": "25.04.2026",
     "changes": [
