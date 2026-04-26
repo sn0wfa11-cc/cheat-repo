@@ -9,15 +9,6 @@
     "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/sn0w.png"
   },
   {
-    "Name": "neverlose alpha",
-    "Game": "csgo",
-    "GameId": "730:csgo",
-    "DownloadUrl": "https://media.githubusercontent.com/media/sn0wfa11-cc/cheat-repo/refs/heads/developer/nl_alpha.zip",
-    "FileName": "nl_alpha.zip",
-    "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/neverlose.png"
-  },
-  {
     "Name": "havoc",
     "Game": "csgo",
     "GameId": "730:csgo",
