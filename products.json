@@ -6,96 +6,96 @@
     "DownloadUrl": "",
     "FileName": "sf.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/sn0w.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/sn0w.png"
   },
   {
     "Name": "arctictech",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/arctictech.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/arctictech.zip",
     "FileName": "arctictech.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/placeholder.png"
   },
   {
     "Name": "lobotomy v2",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/lbv2.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/lbv2.zip",
     "FileName": "lbv2.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/placeholder.png"
   },
   {
     "Name": "havoc",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/havoc.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/havoc.zip",
     "FileName": "havoc.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/placeholder.png"
   },
   {
     "Name": "airflow",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/airflow.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/airflow.zip",
     "FileName": "airflow.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/airflow.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/airflow.png"
   },
   {
     "Name": "ev0lve",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/ev0.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/ev0.zip",
     "FileName": "ev0.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/ev0.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/ev0.png"
   },
   {
     "Name": "primordial",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/prim.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/prim.zip",
     "FileName": "primo.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/prim.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/prim.png"
   },
   {
     "Name": "legendware",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/lw.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/lw.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/lw.png"
   }, 
   {
     "Name": "gamesense",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/gs.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/gs.zip",
     "FileName": "gs.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/gs.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/gs.png"
   },
   {
     "Name": "onetap",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/ot.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/ot.zip",
     "FileName": "ot.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/ot.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/ot.png"
   },
   {
     "Name": "fatality (siniy)",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/ft.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/ft.zip",
     "FileName": "ft.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/ft.png"
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/ft.png"
   }
 ]
