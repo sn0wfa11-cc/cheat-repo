@@ -9,6 +9,15 @@
     "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/sn0w.png"
   },
   {
+    "Name": "lobotomy v2",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/lbv2.zip",
+    "FileName": "lbv2.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/placeholder.png"
+  },
+  {
     "Name": "havoc",
     "Game": "csgo",
     "GameId": "730:csgo",
@@ -27,7 +36,7 @@
     "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/developer/icons/airflow.png"
   },
   {
-    "Name": "ev0lve dev",
+    "Name": "ev0lve",
     "Game": "csgo",
     "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/developer/ev0.zip",
