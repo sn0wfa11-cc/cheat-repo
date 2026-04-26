@@ -1,5 +1,13 @@
 [
   {
+    "version": "v2.1.6",
+    "date": "26.04.2026",
+    "changes": [
+      "+ added lobotomy v2",
+      "+ added arctictech"
+    ]
+  },
+  {
     "version": "v2.1.5",
     "date": "25.04.2026",
     "changes": [

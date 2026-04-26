@@ -9,6 +9,24 @@
     "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/sn0w.png"
   },
   {
+    "Name": "arctictech",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/arctictech.zip",
+    "FileName": "arctictech.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/placeholder.png"
+  },
+  {
+    "Name": "lobotomy v2",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/refs/heads/main/lbv2.zip",
+    "FileName": "lbv2.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/placeholder.png"
+  },
+  {
     "Name": "havoc",
     "Game": "csgo",
     "GameId": "730:csgo",
