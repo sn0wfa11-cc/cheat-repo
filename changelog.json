@@ -1,9 +1,10 @@
 [
   {
-    "version": "v2.1.5-DEVREPO",
+    "version": "v2.1.6-DEVREPO",
     "date": "25.04.2026",
     "changes": [
-      "+ added neverlose for alpha testing"
+      "+ added lobotomy v2",
+      "+ added arctictech"
     ]
   },
   {
