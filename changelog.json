@@ -1,5 +1,14 @@
 [
   {
+    "version": "v2.1.7",
+    "date": "26.04.2026",
+    "changes": [
+      "+ added neverlose[beta]",
+      "* neverlose:warning - cheat currently not stable, lua system not support all luas, but most of the popular are working",
+      "* neverlose:warning - cheat can crash, not much, but still can"
+    ]
+  },
+  {
     "version": "v2.1.6",
     "date": "26.04.2026",
     "changes": [
