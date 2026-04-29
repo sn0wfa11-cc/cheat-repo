@@ -9,6 +9,15 @@
     "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/sn0w.png"
   },
   {
+    "Name": "neverlose beta",
+    "Game": "csgo",
+    "GameId": "730:csgo",
+    "DownloadUrl": "",
+    "FileName": "nl_beta.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/neverlose.png"
+  },
+  {
     "Name": "arctictech",
     "Game": "csgo",
     "GameId": "730:csgo",
