@@ -1,5 +1,19 @@
 [
   {
+    "version": "v2.2",
+    "date": "09.06.2026",
+    "changes": [
+      "+ neverlose: recoded mapper",
+      "+ neverlose: fixed inventory crashes (2000568)",
+      "+ neverlose: fixed many crashes, bugs, etc",
+      "+ neverlose: full lua fix:",
+      "+ neverlose: implemented local data storage",
+      "* neverlose: warning: languages are unstable, recommended to make translations yourself",
+      "+ neverlose: fixed styles, luas, configs",
+      "+ neverlose: other bug fixes"
+    ]
+  },
+  {
     "version": "v2.1.9",
     "date": "09.06.2026",
     "changes": [
