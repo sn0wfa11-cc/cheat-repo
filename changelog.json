@@ -1,5 +1,13 @@
 [
   {
+    "version": "v2.1.9",
+    "date": "09.06.2026",
+    "changes": [
+      "+ ev0lve: fixed many bugs",
+      "+ ev0lve: updated source code to latest version of cheat"
+    ]
+  },
+  {
     "version": "v2.1.8",
     "date": "06.05.2026",
     "changes": [
