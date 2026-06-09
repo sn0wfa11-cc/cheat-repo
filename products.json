@@ -9,12 +9,12 @@
     "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/sn0w.png"
   },
   {
-    "Name": "neverlose(pending updates)",
+    "Name": "neverlose(tests)",
     "Game": "csgo",
     "GameId": "730:csgo",
-    "DownloadUrl": "",
-    "FileName": "nl_beta.zip",
-    "ExePath": "loader.exe",
+    "DownloadUrl": "https://github.com/sn0wfa11-cc/cheat-repo/releases/download/neverlose/nl_release.zip",
+    "FileName": "nl_release.zip",
+    "ExePath": "injector.exe",
     "IconUrl": "https://raw.githubusercontent.com/sn0wfa11-cc/cheat-repo/main/icons/neverlose.png"
   },
   {
