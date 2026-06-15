@@ -3,6 +3,21 @@
     "version": "v2.2",
     "date": "09.06.2026",
     "changes": [
+      "+ added autolaunch for ev0lve, gamesense, neverlose, onetap",
+      "- removed sn0wfa11 entry",
+      "- removed arctictech entry",
+      "- removed lobotomy v2 entry",
+      "- removed havoc entry",
+      "- removed airflow entry",
+      "- removed primordial entry (for unknown amount of time)",
+      "- removed legendware entry",
+      "- removed fatality entry"
+    ]
+  },
+  {
+    "version": "v2.2",
+    "date": "09.06.2026",
+    "changes": [
       "+ neverlose: recoded mapper",
       "+ neverlose: fixed inventory crashes (2000568)",
       "+ neverlose: fixed many crashes, bugs, etc",
